@@ -1,0 +1,24 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\bin\Debug\İngilizce Proje.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\bin\Debug\İngilizce Proje.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\bin\Debug\İngilizce Proje.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.csproj.CoreCompileInputs.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Pages.AddToWord.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Pages.Exercises.resources
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\bin\Debug\İngilizce Proje.exe.config
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\bin\Debug\İngilizce Proje.exe
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\bin\Debug\İngilizce Proje.pdb
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.csprojAssemblyReference.cache
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Form1.resources
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Pages.AddToWord.resources
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Pages.Exercises.resources
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce_Proje.Properties.Resources.resources
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.csproj.GenerateResource.cache
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.csproj.CoreCompileInputs.cache
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.exe
+D:\Masaüstü\İngilizce\kaynak kodları ile\İngilizce Proje\İngilizce Proje\obj\Debug\İngilizce Proje.pdb

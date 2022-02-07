@@ -1,0 +1,7 @@
+Boş,Empty
+Dolu,Fill
+ev ödevi,homework
+efsane,legens
+kahraman,hero
+phone,telefon
+bilgisayar,computer
